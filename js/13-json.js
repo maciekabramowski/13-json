@@ -45,3 +45,4 @@ jsonOsoby.osoby[2].zainteresowania.forEach(function(element, index){
 
 
 console.log(jsonOsoby.osoby[0].wzrost);
+
